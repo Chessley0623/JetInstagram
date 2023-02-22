@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">JetInstagram</string>
+
+  <string name="user_name">Test1</string>
+
+  <string name="user_name2">Test</string>
+
+  <string name="placeholder_search">Search</string>
+</resources>
