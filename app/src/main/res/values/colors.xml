@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <color name="status_bar_color">#EFEFEF</color>
-  <color name="search_bar_color">#C0BEBE</color>
+  <color name="search_bar_color">#E9E7E7</color>
   <color name="add_button_color">#2E8BC0</color>
 </resources>
